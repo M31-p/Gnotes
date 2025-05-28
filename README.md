@@ -39,13 +39,11 @@ make zip
 
 📁 Structure du projet
 
-📦 Bloc-notes-Professionnel/
+📦 Gnotes/
 ├── main.py                      # Point d'entrée principal
 ├── core/                        # Fonctionnalités internes
 ├── ui/                          # Composants UI
-├── themes/                      # Thèmes JSON
 ├── plugins/                     # Plugins dynamiques
-├── profiles/                    # Profils d’utilisateur
 ├── build-scripts/               # Scripts de build (.sh, .iss, .deb)
 ├── assets/                      # Icônes, images
 ├── README.md                    # Ce fichier
