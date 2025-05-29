@@ -1,13 +1,10 @@
 # Gnotes
 
-Un éditeur de texte open-source conçu avec Python (avec `customtkinter`), utile pour tout type d'usage. Il propose une interface ergonomique, des fonctionnalités utiles, une prise en charge multi-fichiers, des thèmes personnalisables, un mode lecture seule, des plugins dynamiques, des profils d'utilisateur et bien plus.
+Un éditeur de texte open-source conçu avec Python (avec `customtkinter`), utile pour tout type d'usage.
 
 ## ✨ Fonctionnalités principales
 
-- ✅ Interface moderne 
-  
-- 🗂️ Multi-onglets avec gestion complète des fichiers
-- ⏳ Sauvegarde 
+- ✅ Interface moderne.
 - 🔌 Plugins dynamiques (fichiers `.py` dans `/plugins`)
 - 🔒 Mode lecture seule par onglet ou global (avec fond grisé + icône)
 - 📦 Système de packaging multi-plateforme (AppImage, .deb, .exe, .zip)
