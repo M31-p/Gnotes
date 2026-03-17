@@ -128,5 +128,5 @@ Ouvrez une Pull Request 🚀
 
 📫 Contact
 Créateur : Nathan Varin
-Email : Nathan.varin@outlook.fr
+Email : nathan.varin@outlook.fr
 GitHub : M31-p
